@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elwinjyot
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Unity Game Development
+- 🌱 I’m currently learning Android Development
 - 📫 How to reach me - Instagram : @elwinjyot
 
 <!---
